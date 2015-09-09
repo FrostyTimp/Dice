@@ -1,5 +1,5 @@
 Die theDream;
-int value=(int)(Math.random()*3)-1;
+int value=(int)(Math.random()*6)+1;
 int sum=0;
 void setup()
 {
